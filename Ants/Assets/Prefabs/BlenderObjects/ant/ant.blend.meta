@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 7375c8a334d2942bb84dfd4519ae7837
+timeCreated: 1441112973
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: //RootNode
+    100004: BackLeftLeg
+    100006: BackNode
+    100008: BackRightLeg
+    100010: FrontLeftLeg
+    100012: FrontNode
+    100014: FrontRightLeg
+    100016: Head
+    100018: MiddleLeftLeg
+    100020: MiddleRightLeg
+    100022: Thorax
+    400000: Abdomen
+    400002: //RootNode
+    400004: BackLeftLeg
+    400006: BackNode
+    400008: BackRightLeg
+    400010: FrontLeftLeg
+    400012: FrontNode
+    400014: FrontRightLeg
+    400016: Head
+    400018: MiddleLeftLeg
+    400020: MiddleRightLeg
+    400022: Thorax
+    2300000: Abdomen
+    2300002: BackLeftLeg
+    2300004: BackNode
+    2300006: BackRightLeg
+    2300008: FrontLeftLeg
+    2300010: FrontNode
+    2300012: FrontRightLeg
+    2300014: Head
+    2300016: MiddleLeftLeg
+    2300018: MiddleRightLeg
+    2300020: Thorax
+    3300000: Abdomen
+    3300002: BackLeftLeg
+    3300004: BackNode
+    3300006: BackRightLeg
+    3300008: FrontLeftLeg
+    3300010: FrontNode
+    3300012: FrontRightLeg
+    3300014: Head
+    3300016: MiddleLeftLeg
+    3300018: MiddleRightLeg
+    3300020: Thorax
+    4300000: FrontLeftLeg
+    4300002: MiddleLeftLeg
+    4300004: BackLeftLeg
+    4300006: MiddleRightLeg
+    4300008: BackRightLeg
+    4300010: FrontRightLeg
+    4300012: FrontNode
+    4300014: BackNode
+    4300016: Head
+    4300018: Thorax
+    4300020: Abdomen
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
